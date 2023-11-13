@@ -6,5 +6,5 @@
  * 3. Template C++ - generic programming part of C++.
  * 4. Standard Template Library (STL).
  *
- * !! Rules for effective C++ programming vary, depending on the part of C++ you are using. !!
+ * !! Rules for effective C++ programming vary, depending on the part of C++ you are using.
 */
