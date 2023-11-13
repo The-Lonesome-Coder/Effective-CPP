@@ -44,7 +44,6 @@ class Player1
  * Some old compilers do not accept in-class constant initialization,
  * a quick solution is to define it out of scope.
 */
-
 class Player2
 {
     private:
@@ -63,7 +62,6 @@ const int Player2::NumTurns {5};        // Definition of static class constant; 
  * Lots of code employs it, so you need to recognize it when you see it.
  * In fact, the enum hack is a fundamental technique of template meta-programming.
 */
-
 class Player3
 {
     private:
