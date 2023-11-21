@@ -2,7 +2,7 @@
 #include <cstring>
 #include <utility>
 /**
- * Use "const" whenever possible
+ * Use "const" whenever possible.
 */
 
 // The word "const" may appear before or after the type, they mean the same thing.
