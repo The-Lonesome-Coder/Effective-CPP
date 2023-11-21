@@ -3,7 +3,7 @@
 */
 
 /**
- * The trick in Effective C++ no longer applied, due to the usage of "delete" keyword on functions feature added in C++11.
+ * The trick in Effective C++ is outdated, due to the usage of "delete" keyword on functions feature added in C++11.
  *
  * To disallow the use of specific functions, use "= delete;".
 */
