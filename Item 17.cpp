@@ -4,7 +4,7 @@
 */
 
 /**
- * This item is not entirely valid anymore. By using the "std::shared_ptr" in <memory> library,
+ * This item is partially outdated. By using the "std::shared_ptr" in <memory> library,
  * it's easier than that of discussed in the Item.
 */
 class Example { };
