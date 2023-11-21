@@ -1,8 +1,9 @@
 /**
  * Prefer "const", "enum" and "inline" to "#define" (Prefer the compiler to the preprocessor).
  *
- * NOTE:: With compiler getting stronger and stronger in optimization, the usage of inline has changed.
- *        See: Is there still a use for inline? (https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline)
+ * Outdated:
+ * With compiler getting stronger and stronger in optimization, the usage of inline has changed.
+ * See: Is there still a use for inline? (https://stackoverflow.com/questions/29796264/is-there-still-a-use-for-inline)
 */
 
 // When you do something like this
