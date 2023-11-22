@@ -1,25 +1,10 @@
 #include <string>
 #include <string_view>
 /**
- *  Know how to access names in templatized base classes.
+ * Know how to access names in templatized base classes.
 */
 
 // Suppose a message-sending application
-class CompanyA
-{
-    public:
-        void sendClearText(std::string_view message);
-        void sendEncrypted(std::string_view message);
-};
-
-
-class CompanyB
-{
-    public:
-        void sendClearText(std::string_view message);
-        void sendEncrypted(std::string_view message);
-};
-
 
 // Class for holding information used to create a message
 class MessageInfo { };
